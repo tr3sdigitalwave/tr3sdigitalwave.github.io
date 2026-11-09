@@ -1,0 +1,15 @@
+{
+  "name": "Tr3sDigitalWave — Digital solutions for business",
+  "short_name": "Tr3sDigitalWave",
+  "description": "Websites, automation, WhatsApp bots, web apps and data solutions that make your business run itself.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1730",
+  "theme_color": "#0a1730",
+  "lang": "en",
+  "icons": [
+    { "src": "./assets/logo-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "./assets/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
